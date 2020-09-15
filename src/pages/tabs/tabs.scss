@@ -1,0 +1,15 @@
+//añadimos la imganen de salida.
+.ion-ios-exit,
+.ion-md-exit{
+  content: url(../../images/exit.svg);
+  width: 24px;
+  height: 32px;
+  padding: 6px 4px 2px;
+  opacity: 0.9;
+}
+
+//Modificar el color del tab
+.tabs-md .tabbar
+{
+  background-color: #9cff00 !important;
+}
